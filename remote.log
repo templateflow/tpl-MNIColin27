@@ -1,1 +1,2 @@
+571735ef-5195-46cc-92e2-71f14625d0e3 autoenable=true location=https://gin.g-node.org/templateflow/tpl-MNIColin27 name=gin-src type=git timestamp=1649365572.3429s
 e973dee1-c68b-4ae3-9c59-8d6ba85c0279 autoenable=true bucket=templateflow datacenter=US encryption=none exporttree=yes fileprefix=tpl-MNIColin27/ host=s3.amazonaws.com name=s3 port=80 public=yes publicurl=https://templateflow.s3.amazonaws.com/ storageclass=STANDARD type=S3 versioning=yes timestamp=1641753698.413708s
